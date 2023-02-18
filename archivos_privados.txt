@@ -1,0 +1,2 @@
+nombre clase1
+contraseña 123456
